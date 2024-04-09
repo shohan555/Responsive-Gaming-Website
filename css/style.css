@@ -62,15 +62,14 @@ border-bottom: 2px solid #fff;
     font-weight: 500;
     border-radius: 30px;
     margin-right: 20px;
-    color: #000;
+    color: #fff;
     transition: all ease .50s;
-    background: #fff;
 }
 .h-btn:hover{
-   transform: scale(1.06);
-    color: #fff;
-    background: transparent;
-    border: 1px solid #f5dca8;
+    transform: scale(1.06);
+    color: #000;
+    background: #fff;
+    border: 1px solid #fff;
 }
 #menu-icon{
     font-size: 42px;
@@ -135,16 +134,16 @@ padding: 0 13%;
     border: 1px solid #f5dca8;
 }
 .container a.cta{
-    border: 1px solid #fff;
-    color: #000;
-    background: #fff;
+    border: 1px solid #f5dca8;
+    color: #fff;
+    background: transparent;
     margin-left: 20px;
     transition: all ease .50s;
 }
 .container a.cta:hover{
-    color: #fff;
-    background: transparent;
-    border: 1px solid #f5dca8;
+    color: #000;
+    background: #fff;
+    border: 1px solid #fff;
 }
 .container a.cta i{
     margin-right: 8px;
